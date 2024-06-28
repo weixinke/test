@@ -1,2 +1,2 @@
-FROM jenkins/jenkins:lts-jdk17
+FROM centos:centos7
 MAINTAINER weixinke <weixinke@kingxunlian.com>
