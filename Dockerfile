@@ -1,2 +1,2 @@
-FROM nacos/nacos-server:v1.4.8
+FROM ubuntu:20.04
 MAINTAINER weixinke <weixinke@kingxunlian.com>
