@@ -1,2 +1,2 @@
-FROM centos:7.9.2009
+FROM mysql:8.0.40
 MAINTAINER weixinke <weixinke@kingxunlian.com>
